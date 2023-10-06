@@ -665,6 +665,9 @@ font-weight: bolder;
   .project-card {
     padding: 0.75rem;
   }
+  .section-heading{
+font-size:1.75rem;
+  }
 
   .form-control label {
     font-size: 1.5rem;
