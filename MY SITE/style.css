@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Tilt+Prism&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sevillana&display=swap');
 
 :root {
   --primary-color: #2d4059;
@@ -537,7 +538,12 @@ font-weight: bolder;
   width: 100%;
   padding: 1.25rem;
 }
-
+.p_contents {
+  font-size: 1.5rem;
+  font-family: "Sevillana", cursive;
+  /* color: tomato; */
+  font-weight: bold;
+}
 .ptop {
   font-size: 1.5rem;
 }
